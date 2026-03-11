@@ -33,7 +33,12 @@ empresa.
 
 #
 ### 💻 Código
-O código foi feito a partir de uma tabela Excel que cóntem os dados a serem armazenados da empresa, e escrito no MySQL Workbench 8.0 CE
+O código foi feito a partir de várias tabela construídas no Excel que contém os dados a serem armazenados da empresa, e escrito no MySQL Workbench 8.0 CE.<br>
+*`📸 Exemplo de tabela contida dentro do arquivo Excel:`* 
+<div align = "left">
+  <img src = "https://github.com/arthurandriws-ctrl/ZeroUm/blob/f3f0db3f363d0b29cd74a7aa6ff34d4660fc2b01/exemplo.png" height = "1000px" width = "500px">
+</div>
+<br>
 
 🗒️ Como utilizar o código: 
 - Para utilizar o MySQL, é necesssário possuir o XAMPP instalado
