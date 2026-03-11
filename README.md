@@ -52,4 +52,7 @@ values ('valor_colum1', 'valor_colum2', valor_colum3, valor_columN),
 ```
   
 #
-### 📊 Tabela Excel
+### ⬇️ Dowloads : 
+- [📊 Tabela Excel](https://github.com/arthurandriws-ctrl/ZeroUm/blob/04817288a58c50640486480aa138730b400919c4/Excel%20at.xlsx)
+- [🐬 MySQL](https://www.mysql.com/downloads/)
+- [🟧 XAMPP](https://www.apachefriends.org/pt_br/download.html)
