@@ -36,7 +36,10 @@ empresa.
 O código foi feito a partir de uma tabela Excel que cóntem os dados a serem armazenados da empresa, e escrito no MySQL Workbench 8.0 CE
 
 Como utilizar o código: 
-- a
+```
+insert into sua_table_aqui (colum1, colum2, colum3, columN)
+values ('valor_colum1', 'valor_colum2', valor_colum3, valor_columN),
+```
 - b
 - c
 - d
