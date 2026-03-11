@@ -39,7 +39,7 @@ O código foi feito a partir de uma tabela Excel que cóntem os dados a serem ar
 - Para utilizar o MySQL, é necesssário possuir o XAMPP instalado
 - Com o XAMPP aberto, clique em "Start" na opção MySQL
 - Ara o MySQL, e entre na conexão criada em MySQL Connections
-- Por fim, utilize o código zeroum.sql
+- Por fim, utilize o código [zeroum.sql](https://github.com/arthurandriws-ctrl/ZeroUm/blob/8506205d6919b3122133ee70cedbad223bd476e2/zeroum.sql)
 
 Para inserir valores, usamos **`insert into`** e nele identificamos as colunas ou não, mas caso não identificar as colunas,
 na hora de utilizar o **`values`**, a posição que os valores são atribuídos serão armazenados na ordem das colunas criadas nas tabelas.
