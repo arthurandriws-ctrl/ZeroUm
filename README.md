@@ -1,6 +1,6 @@
 ### Estudo de banco de dados, onde o objetivo é criar um script em MySQL contendo os dados necessários a serem armazenado de uma empresa fictícia
 
-👨‍💻 Tecnologia: **`MySQL 🐬`**
+👨‍💻 Tecnologia: **`SQL 🐬`**
 
 ---
 ### 📖 Contexto:
